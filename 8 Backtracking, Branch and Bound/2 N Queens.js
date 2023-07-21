@@ -1,5 +1,7 @@
 let perfect = 0;
 NQueens(8);
+
+// Number of Perfect Solutions is 92
 console.log("Number of Perfect Solutions is " + perfect);
 
 function NQueens(n) {
